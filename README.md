@@ -9,3 +9,7 @@
   <img alt="github contribution snake"
        src="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
 </picture>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=weldymq&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=weldymq&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>

@@ -32,27 +32,29 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=weldymq&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=weldymq&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=weldymq&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true&v=2" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weldymq&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8&v=2" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=weldymq&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=weldymq&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true&v=2" alt="activity graph" />
+</p>
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
+    <img alt="github contribution snake"
+         src="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/weldymq">weldymq</a></i></p>
 
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
-  <img alt="github contribution snake"
-       src="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
-</picture>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=weldymq&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=weldymq&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<p align="center"><i>⭐️ From <a href="https://github.com/weldymq">weldymq</a></i></p>

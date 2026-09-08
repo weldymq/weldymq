@@ -1,15 +1,3 @@
-### 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
-    <img alt="github contribution snake"
-         src="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
-  </picture>
-</p>
 
 
 <p align="center">
@@ -60,3 +48,17 @@
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/weldymq">weldymq</a></i></p>
+
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+            srcset="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
+    <img alt="github contribution snake"
+         src="https://raw.githubusercontent.com/weldymq/weldymq/output/github-snake.svg" />
+  </picture>
+</p>
